@@ -1,0 +1,428 @@
+kopsavilkums par faktoru līmeņiem:
+
+Faktors: M 
+
+M0 M4 
+75 75 
+
+Faktors: b 
+
+b0 b1 b2 b5 b6 
+30 30 30 30 30 
+
+Faktors: f 
+
+ f0  f1 f10 f15 f16 f17 f18  f2  f3  f4  f5  f6  f7  f8  f9 
+ 10  10  10  10  10  10  10  10  10  10  10  10  10  10  10 
+
+'Slope' vērtības sadalītas pēc b faktora:
+$b0
+ [1] "0,102030174" "0,415697122" "0,067345407" "0,172203895" "0,4944893"  
+ [6] "1,035793284" "1,022899259" "3,215543478" "0,496396516" "0,046874429"
+[11] "0,634546954" "0,154877667" "0,633672524" "0,154092007" "0,140796105"
+[16] "0,089417202" "0,421427872" "0,166045219" "0,273638435" "0,682664569"
+[21] "0,048611241" "0,338875001" "0,013007868" "0,280049207" "0,31527511" 
+[26] "0,073109958" "3,78E-01"    "1,02E-01"    "3,14E-02"    "3,20E-01"   
+
+$b1
+ [1] "1,060122442" "0,747587718" "1,274611696" "0,93204282"  "0,582831303"
+ [6] "0,311534309" "0,948748415" "0,541227979" "1,687235819" "1,21641154" 
+[11] "1,324350325" "0,93399941"  "1,328525002" "0,938675359" "1,424660581"
+[16] "1,092145641" "1,818926308" "1,439758105" "0,862704323" "0,571154484"
+[21] "1,159030599" "0,825971689" "1,22313145"  "0,909258263" "1,700709278"
+[26] "1,330233218" "2,19E+00"    "1,82E+00"    "1,21E+00"    "8,80E-01"   
+
+$b2
+ [1] "0,104708736" "0,139580539" "6,678906678" "7,503477248" "8,145066098"
+ [6] "8,637244444" "0,079465695" "0,422003063" "0,986967471" "0,499947675"
+[11] "1,230390199" "0,710197286" "1,232968697" "0,711847911" "0,348552029"
+[16] "0,091801464" "0,566649722" "0,283998998" "1,127783325" "1,54758419" 
+[21] "0,207009614" "0,048009142" "0,230343965" "0,015767357" "0,502195984"
+[26] "0,22585483"  "5,19E-01"    "2,41E-01"    "2,30E-01"    "2,21E-02"   
+
+$b5
+ [1] "0,058582375" "0,322889687" "0,096166634" "0,326017233" "0,414410058"
+ [6] "0,916706369" "0,626126902" "1,78138311"  "0,557502608" "0,146059253"
+[11] "0,895506884" "0,435046574" "0,896935702" "0,435768955" "0,161854566"
+[16] "0,056684343" "0,370650117" "0,129141711" "0,197453749" "0,533852203"
+[21] "0,022085178" "0,228425934" "0,044223719" "0,187722071" "0,30635066" 
+[26] "0,07423882"  "2,90E-01"    "3,47E-02"    "6,44E-02"    "1,77E-01"   
+
+$b6
+ [1] "0,017622777" "0,246613843" "0,147739282" "0,086959907" "0,349589405"
+ [6] "0,865029679" "0,648861095" "1,832600395" "0,553131656" "0,124974294"
+[11] "0,982652283" "0,494503763" "0,982682849" "0,494449475" "0,21905666" 
+[16] "0,007929586" "0,44811681"  "0,195162166" "0,129030286" "0,475501937"
+[21] "0,069415892" "0,179779882" "0,089950463" "0,143565442" "0,373758369"
+[26] "0,129354916" "4,33E-01"    "1,63E-01"    "1,17E-01"    "1,22E-01"   
+
+
+Standartnovirze pa f faktora līmeņiem:
+     f SD_Intercept
+1   f0           NA
+2   f1           NA
+3  f10           NA
+4  f15           NA
+5  f16           NA
+6  f17           NA
+7  f18           NA
+8   f2           NA
+9   f3           NA
+10  f4           NA
+11  f5           NA
+12  f6           NA
+13  f7           NA
+14  f8           NA
+15  f9           NA
+     f SD_Slope
+1   f0       NA
+2   f1       NA
+3  f10       NA
+4  f15       NA
+5  f16       NA
+6  f17       NA
+7  f18       NA
+8   f2       NA
+9   f3       NA
+10  f4       NA
+11  f5       NA
+12  f6       NA
+13  f7       NA
+14  f8       NA
+15  f9       NA
+     f SD_adj.r.squared
+1   f0               NA
+2   f1               NA
+3  f10               NA
+4  f15               NA
+5  f16               NA
+6  f17               NA
+7  f18               NA
+8   f2               NA
+9   f3               NA
+10  f4               NA
+11  f5               NA
+12  f6               NA
+13  f7               NA
+14  f8               NA
+15  f9               NA
+     f SD_Average
+1   f0         NA
+2   f1         NA
+3  f10         NA
+4  f15         NA
+5  f16         NA
+6  f17         NA
+7  f18         NA
+8   f2         NA
+9   f3         NA
+10  f4         NA
+11  f5         NA
+12  f6         NA
+13  f7         NA
+14  f8         NA
+15  f9         NA
+
+Prockordat (filtrēts un pārveidots):
+       Intercept Slope ICerror SLerror r.squared adj.r.squared RMSD  MAD    M
+NA            NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.1          NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.2          NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.3          NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.4          NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.5          NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.6          NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.7          NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.8          NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.9          NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.10         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.11         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.12         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.13         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.14         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.15         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.16         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.17         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.18         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.19         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.20         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.21         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.22         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.23         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.24         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.25         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.26         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.27         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.28         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.29         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.30         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.31         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.32         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.33         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.34         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.35         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.36         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.37         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.38         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.39         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.40         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.41         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.42         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.43         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.44         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.45         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.46         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.47         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.48         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.49         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.50         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.51         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.52         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.53         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.54         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.55         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.56         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.57         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.58         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.59         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.60         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.61         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.62         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.63         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.64         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.65         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.66         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.67         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.68         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.69         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.70         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.71         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.72         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.73         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.74         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.75         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.76         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.77         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.78         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.79         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.80         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.81         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.82         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.83         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.84         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.85         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.86         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.87         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.88         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.89         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.90         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.91         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.92         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.93         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.94         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.95         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.96         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.97         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.98         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.99         NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.100        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.101        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.102        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.103        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.104        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.105        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.106        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.107        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.108        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.109        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.110        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.111        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.112        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.113        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.114        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.115        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.116        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.117        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.118        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.119        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.120        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.121        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.122        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.123        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.124        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.125        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.126        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.127        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.128        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.129        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.130        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.131        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.132        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.133        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.134        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.135        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.136        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.137        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.138        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.139        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.140        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.141        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.142        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.143        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.144        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.145        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.146        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.147        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.148        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+NA.149        NA    NA    <NA>    <NA>      <NA>            NA <NA> <NA> <NA>
+          b    f Average
+NA     <NA> <NA>      NA
+NA.1   <NA> <NA>      NA
+NA.2   <NA> <NA>      NA
+NA.3   <NA> <NA>      NA
+NA.4   <NA> <NA>      NA
+NA.5   <NA> <NA>      NA
+NA.6   <NA> <NA>      NA
+NA.7   <NA> <NA>      NA
+NA.8   <NA> <NA>      NA
+NA.9   <NA> <NA>      NA
+NA.10  <NA> <NA>      NA
+NA.11  <NA> <NA>      NA
+NA.12  <NA> <NA>      NA
+NA.13  <NA> <NA>      NA
+NA.14  <NA> <NA>      NA
+NA.15  <NA> <NA>      NA
+NA.16  <NA> <NA>      NA
+NA.17  <NA> <NA>      NA
+NA.18  <NA> <NA>      NA
+NA.19  <NA> <NA>      NA
+NA.20  <NA> <NA>      NA
+NA.21  <NA> <NA>      NA
+NA.22  <NA> <NA>      NA
+NA.23  <NA> <NA>      NA
+NA.24  <NA> <NA>      NA
+NA.25  <NA> <NA>      NA
+NA.26  <NA> <NA>      NA
+NA.27  <NA> <NA>      NA
+NA.28  <NA> <NA>      NA
+NA.29  <NA> <NA>      NA
+NA.30  <NA> <NA>      NA
+NA.31  <NA> <NA>      NA
+NA.32  <NA> <NA>      NA
+NA.33  <NA> <NA>      NA
+NA.34  <NA> <NA>      NA
+NA.35  <NA> <NA>      NA
+NA.36  <NA> <NA>      NA
+NA.37  <NA> <NA>      NA
+NA.38  <NA> <NA>      NA
+NA.39  <NA> <NA>      NA
+NA.40  <NA> <NA>      NA
+NA.41  <NA> <NA>      NA
+NA.42  <NA> <NA>      NA
+NA.43  <NA> <NA>      NA
+NA.44  <NA> <NA>      NA
+NA.45  <NA> <NA>      NA
+NA.46  <NA> <NA>      NA
+NA.47  <NA> <NA>      NA
+NA.48  <NA> <NA>      NA
+NA.49  <NA> <NA>      NA
+NA.50  <NA> <NA>      NA
+NA.51  <NA> <NA>      NA
+NA.52  <NA> <NA>      NA
+NA.53  <NA> <NA>      NA
+NA.54  <NA> <NA>      NA
+NA.55  <NA> <NA>      NA
+NA.56  <NA> <NA>      NA
+NA.57  <NA> <NA>      NA
+NA.58  <NA> <NA>      NA
+NA.59  <NA> <NA>      NA
+NA.60  <NA> <NA>      NA
+NA.61  <NA> <NA>      NA
+NA.62  <NA> <NA>      NA
+NA.63  <NA> <NA>      NA
+NA.64  <NA> <NA>      NA
+NA.65  <NA> <NA>      NA
+NA.66  <NA> <NA>      NA
+NA.67  <NA> <NA>      NA
+NA.68  <NA> <NA>      NA
+NA.69  <NA> <NA>      NA
+NA.70  <NA> <NA>      NA
+NA.71  <NA> <NA>      NA
+NA.72  <NA> <NA>      NA
+NA.73  <NA> <NA>      NA
+NA.74  <NA> <NA>      NA
+NA.75  <NA> <NA>      NA
+NA.76  <NA> <NA>      NA
+NA.77  <NA> <NA>      NA
+NA.78  <NA> <NA>      NA
+NA.79  <NA> <NA>      NA
+NA.80  <NA> <NA>      NA
+NA.81  <NA> <NA>      NA
+NA.82  <NA> <NA>      NA
+NA.83  <NA> <NA>      NA
+NA.84  <NA> <NA>      NA
+NA.85  <NA> <NA>      NA
+NA.86  <NA> <NA>      NA
+NA.87  <NA> <NA>      NA
+NA.88  <NA> <NA>      NA
+NA.89  <NA> <NA>      NA
+NA.90  <NA> <NA>      NA
+NA.91  <NA> <NA>      NA
+NA.92  <NA> <NA>      NA
+NA.93  <NA> <NA>      NA
+NA.94  <NA> <NA>      NA
+NA.95  <NA> <NA>      NA
+NA.96  <NA> <NA>      NA
+NA.97  <NA> <NA>      NA
+NA.98  <NA> <NA>      NA
+NA.99  <NA> <NA>      NA
+NA.100 <NA> <NA>      NA
+NA.101 <NA> <NA>      NA
+NA.102 <NA> <NA>      NA
+NA.103 <NA> <NA>      NA
+NA.104 <NA> <NA>      NA
+NA.105 <NA> <NA>      NA
+NA.106 <NA> <NA>      NA
+NA.107 <NA> <NA>      NA
+NA.108 <NA> <NA>      NA
+NA.109 <NA> <NA>      NA
+NA.110 <NA> <NA>      NA
+NA.111 <NA> <NA>      NA
+NA.112 <NA> <NA>      NA
+NA.113 <NA> <NA>      NA
+NA.114 <NA> <NA>      NA
+NA.115 <NA> <NA>      NA
+NA.116 <NA> <NA>      NA
+NA.117 <NA> <NA>      NA
+NA.118 <NA> <NA>      NA
+NA.119 <NA> <NA>      NA
+NA.120 <NA> <NA>      NA
+NA.121 <NA> <NA>      NA
+NA.122 <NA> <NA>      NA
+NA.123 <NA> <NA>      NA
+NA.124 <NA> <NA>      NA
+NA.125 <NA> <NA>      NA
+NA.126 <NA> <NA>      NA
+NA.127 <NA> <NA>      NA
+NA.128 <NA> <NA>      NA
+NA.129 <NA> <NA>      NA
+NA.130 <NA> <NA>      NA
+NA.131 <NA> <NA>      NA
+NA.132 <NA> <NA>      NA
+NA.133 <NA> <NA>      NA
+NA.134 <NA> <NA>      NA
+NA.135 <NA> <NA>      NA
+NA.136 <NA> <NA>      NA
+NA.137 <NA> <NA>      NA
+NA.138 <NA> <NA>      NA
+NA.139 <NA> <NA>      NA
+NA.140 <NA> <NA>      NA
+NA.141 <NA> <NA>      NA
+NA.142 <NA> <NA>      NA
+NA.143 <NA> <NA>      NA
+NA.144 <NA> <NA>      NA
+NA.145 <NA> <NA>      NA
+NA.146 <NA> <NA>      NA
+NA.147 <NA> <NA>      NA
+NA.148 <NA> <NA>      NA
+NA.149 <NA> <NA>      NA
